@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/tomasmcguinness/node-red-contrib-random-lighting.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tomas McGuinness",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tomasmcguinness/node-red-contrib-random-lighting/issues"
   },
