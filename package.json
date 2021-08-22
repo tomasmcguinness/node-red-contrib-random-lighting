@@ -1,0 +1,19 @@
+{
+  "name": "node-red-contrib-random-lighting",
+  "version": "1.0.0",
+  "description": "Provides random control of lighting for use when your home is vacant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasmcguinness/node-red-contrib-random-lighting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasmcguinness/node-red-contrib-random-lighting/issues"
+  },
+  "homepage": "https://github.com/tomasmcguinness/node-red-contrib-random-lighting#readme"
+}
