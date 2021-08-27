@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tomasmcguinness/node-red-contrib-random-lighting/issues"
   },
-  "homepage": "https://github.com/tomasmcguinness/node-red-contrib-random-lighting#readme"
+  "homepage": "https://github.com/tomasmcguinness/node-red-contrib-random-lighting#readme",
+  "node-red" : {
+    "nodes": {
+        "random-lighting": "random-lighting.js"
+    }
+  }
 }
